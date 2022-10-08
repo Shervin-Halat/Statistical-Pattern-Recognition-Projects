@@ -1,0 +1,5 @@
+This project covers 'Unsupervised Learning', that is, 'Clustering' in 'Statistical Pattern Recognition' course. 
+Specifically, various clustering methods such as K-Means, K-Median, K-Medoids, Hierarchical Clustering, Single-Linkage, Complete-Linkage, and Dendrogram are practiced. 
+Also, applications of K-means method in 'Color Extraction', 'Image Segmentation', and 'Image Compression' tasks are covered.
+This folder contains 'Questions File', 'Report File', and 'Implementations' in python programming language.
+Also, the processed data in the project may be added.
