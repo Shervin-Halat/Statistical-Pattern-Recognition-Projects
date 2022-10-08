@@ -1,0 +1,6 @@
+This project was the main and last project of my 'Statistical-Pattern-Recognition' course (Course Project).
+This Project is about the implementation of a (voluntarily selected) recent IEEE Journal Paper named 'An Efficient Joint Formulation for Bayesian Face Verification'.
+## Paper address: 
+https://ieeexplore.ieee.org/document/7415949
+This folder contains the implementation (implemented by myself), project report, and the paper file.
+Used dataset is not included in the repository due to its relatively large size.
